@@ -1,5 +1,5 @@
 {
-    "name": "basemkhirat/elasticsearch",
+    "name": "fengyongz/elasticsearch",
     "description": "Laravel, Lumen and Native php elasticseach query builder to build complex queries using an elegant syntax",
     "keywords": [
         "elasticsearch",
@@ -20,8 +20,8 @@
     },
     "authors": [
         {
-            "name": "basemkhirat",
-            "email": "basemkhirat@gmail.com"
+            "name": "fengyongz",
+            "email": "mr-von-chn@sina.com"
         }
     ],
     "autoload": {
